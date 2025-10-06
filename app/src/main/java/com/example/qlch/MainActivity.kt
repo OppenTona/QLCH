@@ -7,7 +7,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable  // Nhập hàm để định nghĩa điểm đến composable trong điều hướng
 import androidx.navigation.compose.rememberNavController  // Nhập hàm để tạo và ghi nhớ NavController
-import ui.HomeScreen
+import com.example.qlch.ui.HomeScreen
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

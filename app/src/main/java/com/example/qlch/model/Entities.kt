@@ -1,4 +1,4 @@
-package data.model
+package com.example.qlch.model
 
 // data/model/Entities.kt
 import androidx.room.*
